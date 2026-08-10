@@ -12,7 +12,7 @@ An interactive geospatial dashboard analysing 998 major earthquake events (1995�
 
 | Deliverable | Link |
 |---|---|
-| **Live dashboard (GitHub Pages)** | [] |
+| **Live dashboard (GitHub Pages)** | https://smiley1go.github.io/Global/Earthquake_Explorer.html |
 | **Reproducible notebook (Google Colab)** | https://colab.research.google.com/drive/1nUzVKm69g2dd0N1ESPMoLamSx-hmfHcc?usp=sharing |
 | **This repository** | https://github.com/Smiley1Go/Global |
 
@@ -62,13 +62,6 @@ An interactive geospatial dashboard analysing 998 major earthquake events (1995�
 - The 10° grid concentration index is a descriptive spatial measure, not a seismic-hazard or risk assessment.
 
 ---
-
-## Repository structure
-
-```
-├── index.html      # Single-file static dashboard (deploy this via GitHub Pages)
-└── README.md        # This file
-```
 
 ## Reproducing this analysis
 
