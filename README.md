@@ -12,7 +12,7 @@ An interactive geospatial dashboard analysing 998 major earthquake events (1995â
 
 | Deliverable | Link |
 |---|---|
-| **Live dashboard (GitHub Pages)** | https://smiley1go.github.io/Global/ |
+| **Live dashboard (GitHub Pages)** | [] |
 | **Reproducible notebook (Google Colab)** | https://colab.research.google.com/drive/1nUzVKm69g2dd0N1ESPMoLamSx-hmfHcc?usp=sharing |
 | **This repository** | https://github.com/Smiley1Go/Global |
 
